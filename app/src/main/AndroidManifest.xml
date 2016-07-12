@@ -18,7 +18,8 @@
         <activity android:name=".a_linear" />
         <activity android:name=".a_real" />
         <activity android:name=".a_grid" />
-        <activity android:name=".a_text"></activity>
+        <activity android:name=".a_text" />
+        <activity android:name=".a_radio"/>
     </application>
 
 </manifest>

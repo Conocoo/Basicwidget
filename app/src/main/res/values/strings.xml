@@ -3,4 +3,7 @@
     <string name="text_message"><![CDATA[
 <font color = "red"> hello </font> <h1>Android</h1>
     ]]></string>
+    <string name="android_tv_name">Android 수업 시간</string>
+    <string name="tv_id">id</string>
+    <string name="tv_pw">pw</string>
 </resources>
