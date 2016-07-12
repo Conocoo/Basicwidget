@@ -6,4 +6,9 @@
     tools:context="com.dodream.www.basicwidget.a_main"
     android:orientation="vertical">
 
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/btn"
+        android:layout_height="match_parent" />
+
 </LinearLayout>
